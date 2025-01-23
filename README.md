@@ -1,5 +1,5 @@
 # opengl-scene
-Abstract 3D Scene, written with OpenGL/C++\n
+Abstract 3D Scene, written with OpenGL/C++   
 Developed mechanics include: model loading & rendering, camera, lighting, animation and movement within the scene.
 Some picturez 4u:
 ![image](https://github.com/user-attachments/assets/46e05dce-9ca3-408d-aea5-e07070414614)
